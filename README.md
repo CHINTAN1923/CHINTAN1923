@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CHINTAN GAMIT
 - 👀 I’m interested in AI,ML,Web Development
-- 🌱 I’m currently learning data structures and algo.
+- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me on instagram @_programmer_jokes_
 
 <!---
