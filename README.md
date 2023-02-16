@@ -1,5 +1,5 @@
 - 👋 Hi, I’m CHINTAN GAMIT
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development,cloud computing
 - 🌱 I’m currently learning Python.
 - 📫 reach me on instagram @_programmer_jokes_
 
